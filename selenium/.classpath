@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/bcpkix-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/bcprov-jdk15on-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/dec-0.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/docker-java-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/docker-java-api-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/docker-java-core-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/docker-java-transport-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/docker-java-transport-httpclient5-3.2.13.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/gson-2.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/httpclient5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/httpcore5-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/httpcore5-h2-5.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/jackson-annotations-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/jackson-core-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/jackson-databind-2.10.3.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/jcl-over-slf4j-1.7.30.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/jna-5.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/javaE/selenium/Jar/webdrivermanager-5.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
